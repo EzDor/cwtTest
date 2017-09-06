@@ -1,0 +1,7 @@
+{
+  "flightId": "1",
+  "countryOrigin": "ISR",
+  "countryDest": "FR",
+  "fare": 300,
+  "isActive": true
+}

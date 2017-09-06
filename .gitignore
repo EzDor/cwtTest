@@ -57,3 +57,12 @@ typings/
 # dotenv environment variables file
 .env
 
+.idea/
+app.js
+bin/
+lib/
+package.json
+public/
+routes/
+scripts/
+views/

@@ -1,0 +1,7 @@
+{
+  "id": 3,
+  "countryOrigin": "USA",
+  "countryDest": "HG",
+  "fare": 1000,
+  "isActive": true
+}
